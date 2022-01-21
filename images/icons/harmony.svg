@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g transform="translate(16 16)"><radialGradient id="a" cx="-1610.657" cy="905.066" r="1.254" gradientTransform="matrix(-38.5056 -44.701 -44.7023 38.5044 -21514.654 -106804.36)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0344ed" stop-opacity=".824"/><stop offset="1" stop-color="#8f58ff" stop-opacity=".1"/></radialGradient><path d="M24.4-13.5c5 1.4 9.5 4.1 13.1 7.7v43.5c-3.6 3.6-8 6.3-13 7.7V28.8c0-2.7-2.1-4.9-4.8-5h-7.2c-2.7 0-4.9 2.1-5 4.8v17c-5-1.4-9.5-4.1-13-7.7V-5.8c3.6-3.6 8.1-6.3 13.1-7.7 0 .2-.1.5-.1.7V3.7c0 2.7 2.1 4.9 4.8 5h7.2c2.7 0 4.9-2.1 5-4.8v-16.4c0-.3 0-.7-.1-1zm19 15.6c2.8 4.7 4.1 9.4 4.1 14.2s-1.4 9.5-4.1 14.2c-.3.5-.9.6-1.4.4s-.6-.9-.4-1.4c2.6-4.4 3.9-8.8 3.9-13.2s-1.3-8.8-3.9-13.2c-.2-.4-.1-1.1.4-1.3s1.1-.2 1.4.3zm-54.8 0c.3-.5.9-.6 1.4-.4.5.3.6 1 .4 1.4-2.6 4.4-3.9 8.8-3.9 13.2s1.3 8.8 3.9 13.2c.3.5.1 1.1-.4 1.4-.5.3-1.1.1-1.4-.4-2.8-4.7-4.1-9.4-4.1-14.2s1.4-9.5 4.1-14.2z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#a)"/></g><g transform="translate(16 16)"><radialGradient id="b" cx="-1555.031" cy="926.428" r=".886" gradientTransform="matrix(39.1854 44.1069 44.1082 -39.1841 20067.082 104882.594)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#82ff6a"/><stop offset="1" stop-color="#fff" stop-opacity=".1"/></radialGradient><path d="M24.4-13.5c5 1.4 9.5 4.1 13.1 7.7v43.5c-3.6 3.6-8 6.3-13 7.7V28.8c0-2.7-2.1-4.9-4.8-5h-7.2c-2.7 0-4.9 2.1-5 4.8v17c-5-1.4-9.5-4.1-13-7.7V-5.8c3.6-3.6 8.1-6.3 13.1-7.7 0 .2-.1.5-.1.7V3.7c0 2.7 2.1 4.9 4.8 5h7.2c2.7 0 4.9-2.1 5-4.8v-16.4c0-.3 0-.7-.1-1zm19 15.6c2.8 4.7 4.1 9.4 4.1 14.2s-1.4 9.5-4.1 14.2c-.3.5-.9.6-1.4.4s-.6-.9-.4-1.4c2.6-4.4 3.9-8.8 3.9-13.2s-1.3-8.8-3.9-13.2c-.2-.4-.1-1.1.4-1.3s1.1-.2 1.4.3zm-54.8 0c.3-.5.9-.6 1.4-.4.5.3.6 1 .4 1.4-2.6 4.4-3.9 8.8-3.9 13.2s1.3 8.8 3.9 13.2c.3.5.1 1.1-.4 1.4-.5.3-1.1.1-1.4-.4-2.8-4.7-4.1-9.4-4.1-14.2s1.4-9.5 4.1-14.2z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#b)"/></g><g transform="translate(16 16)"><radialGradient id="c" cx="-1602.501" cy="939.235" r="1.222" gradientTransform="matrix(-55.4715 20.0982 19.7429 54.4858 -107401.484 -18966.705)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#45ffba" stop-opacity=".469"/><stop offset="1" stop-color="#45abff" stop-opacity=".1"/></radialGradient><path d="M24.4-13.5c5 1.4 9.5 4.1 13.1 7.7v43.5c-3.6 3.6-8 6.3-13 7.7V28.8c0-2.7-2.1-4.9-4.8-5h-7.2c-2.7 0-4.9 2.1-5 4.8v17c-5-1.4-9.5-4.1-13-7.7V-5.8c3.6-3.6 8.1-6.3 13.1-7.7 0 .2-.1.5-.1.7V3.7c0 2.7 2.1 4.9 4.8 5h7.2c2.7 0 4.9-2.1 5-4.8v-16.4c0-.3 0-.7-.1-1zm19 15.6c2.8 4.7 4.1 9.4 4.1 14.2s-1.4 9.5-4.1 14.2c-.3.5-.9.6-1.4.4s-.6-.9-.4-1.4c2.6-4.4 3.9-8.8 3.9-13.2s-1.3-8.8-3.9-13.2c-.2-.4-.1-1.1.4-1.3s1.1-.2 1.4.3zm-54.8 0c.3-.5.9-.6 1.4-.4.5.3.6 1 .4 1.4-2.6 4.4-3.9 8.8-3.9 13.2s1.3 8.8 3.9 13.2c.3.5.1 1.1-.4 1.4-.5.3-1.1.1-1.4-.4-2.8-4.7-4.1-9.4-4.1-14.2s1.4-9.5 4.1-14.2z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#c)"/></g><g transform="translate(16 16)"><radialGradient id="d" cx="-1554.01" cy="922.156" r=".772" gradientTransform="matrix(44.5555 38.6743 38.6757 -44.5541 33567.746 101211.344)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00ff74"/><stop offset="1" stop-color="#00ff03" stop-opacity=".5"/></radialGradient><path d="M24.4-13.5c5 1.4 9.5 4.1 13.1 7.7v43.5c-3.6 3.6-8 6.3-13 7.7V28.8c0-2.7-2.1-4.9-4.8-5h-7.2c-2.7 0-4.9 2.1-5 4.8v17c-5-1.4-9.5-4.1-13-7.7V-5.8c3.6-3.6 8.1-6.3 13.1-7.7 0 .2-.1.5-.1.7V3.7c0 2.7 2.1 4.9 4.8 5h7.2c2.7 0 4.9-2.1 5-4.8v-16.4c0-.3 0-.7-.1-1zm19 15.6c2.8 4.7 4.1 9.4 4.1 14.2s-1.4 9.5-4.1 14.2c-.3.5-.9.6-1.4.4s-.6-.9-.4-1.4c2.6-4.4 3.9-8.8 3.9-13.2s-1.3-8.8-3.9-13.2c-.2-.4-.1-1.1.4-1.3s1.1-.2 1.4.3zm-54.8 0c.3-.5.9-.6 1.4-.4.5.3.6 1 .4 1.4-2.6 4.4-3.9 8.8-3.9 13.2s1.3 8.8 3.9 13.2c.3.5.1 1.1-.4 1.4-.5.3-1.1.1-1.4-.4-2.8-4.7-4.1-9.4-4.1-14.2s1.4-9.5 4.1-14.2z" fill-rule="evenodd" clip-rule="evenodd" fill="url(#d)" fill-opacity=".2"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>as_harmony_color_imagotype</title>
+    <defs>
+        <linearGradient x1="70.2345455%" y1="26.2897562%" x2="-26.792583%" y2="98.5315104%" id="linearGradient-1">
+            <stop stop-color="#00FFFF" offset="2.944282%"></stop>
+            <stop stop-color="#29ABE2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.5715903%" y1="5.15777885%" x2="45.0426017%" y2="118.201%" id="linearGradient-2">
+            <stop stop-color="#00FFD4" offset="0%"></stop>
+            <stop stop-color="#29C9E2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="3.11601788%" y1="21.3905055%" x2="99.8013276%" y2="98.2320656%" id="linearGradient-3">
+            <stop stop-color="#00FFAA" offset="0%"></stop>
+            <stop stop-color="#29E2DC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.96492916%" y1="63.8364078%" x2="135.785541%" y2="35.010336%" id="linearGradient-4">
+            <stop stop-color="#00FF80" offset="0%"></stop>
+            <stop stop-color="#29E2BD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.5463045%" y1="78.4185523%" x2="45.4714457%" y2="-15.4517622%" id="linearGradient-5">
+            <stop stop-color="#00D4FF" offset="0%"></stop>
+            <stop stop-color="#298CE2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="96.003217%" y1="77.680679%" x2="1.8871647%" y2="3.38204523%" id="linearGradient-6">
+            <stop stop-color="#00D4FF" offset="0%"></stop>
+            <stop stop-color="#298CE2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="as_harmony_color_imagotype" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="338.827178 47.9940007 117.890941 175.978003 117.890941 79.9900012 256.063762 0.063992001"></polygon>
+        <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="117.890941 79.9900012 117.890941 335.958005 35 287.964004 35 127.984002"></polygon>
+        <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="35 287.964004 35 383.952006 173.109059 463.942007 255.936238 415.948006"></polygon>
+        <polygon id="Path" fill="url(#linearGradient-4)" fill-rule="nonzero" points="173.109059 463.942007 256.063762 512 393.981535 431.946007 394.045297 335.958005"></polygon>
+        <polygon id="Path" fill="url(#linearGradient-5)" fill-rule="nonzero" points="393.981535 431.946007 477 383.952006 477 223.972003 393.981535 176.041995"></polygon>
+        <polygon id="Path" fill="url(#linearGradient-6)" fill-rule="nonzero" points="255.936238 95.9880015 338.827178 47.9940007 477 127.984002 477 223.972003"></polygon>
+    </g>
+</svg>
